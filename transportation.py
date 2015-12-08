@@ -7,4 +7,4 @@ class transportation(objrct):
   	
 	
 	def type(self):
-		return l
+		return trantype
