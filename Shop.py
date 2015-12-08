@@ -3,8 +3,3 @@ class Shop(object):
 		self.shopID = shopID
 		self.name = name
 		self.type = type
-<<<<<<< HEAD:Shop.py.txt
-=======
-	def kType(self):
-		return self.type
->>>>>>> f1f8e6ce7b39d4b0040c7dbc49cf26de7f145dca:Shop.py
