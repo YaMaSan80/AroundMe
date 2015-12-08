@@ -1,5 +1,5 @@
 class Shop(object):
-	def __init__(self, type):
+	def __init__(self, shopID, name, type):
+		self.shopID = shopID
+		self.name = name
 		self.type = type
-	def kType(self):
-		return self.type
